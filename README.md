@@ -18,7 +18,7 @@ The Seven Shadows are Cid Kagenou's elite shadow organization.  Each member poss
 | Eta          | ![Eta](image/Eta.jpg)   | [Eta is a skilled healer and a master of life magic. She's a kind and compassionate individual, always willing to help those in need.]  |
 
 ## License
-
+```
 MIT License
 
 Copyright (c) Date: January 20, 2025 | Name and Organization name Aljur Pogoy/GeoArchonsTeam
@@ -32,14 +32,7 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+```
 
 ## Examples For making Comamnds
 
@@ -98,4 +91,4 @@ ws3-fca [Click Here](https://www.npmjs.com/package/ws3-fca)
 | Command                                                | Role  | Description           |
 | ------------------------------------------------------ | ----- | --------------------- |
 | `/help`![New](https://img.shields.io/badge/-New-brightgreen)                                       | User | See the category and listed comamnds.       |
-| `/restart`![New](https://img.shields.io/badge/-New-brightgreen)                                         | Admin | Restart the bot.    |
+| `/restart`                                      |Admin | Restart the bot.    |
